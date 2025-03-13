@@ -1,6 +1,6 @@
 import time
 import threading
-from hcsr04 import HCSR04
+from HCSR04 import HCSR04
 
 samples = 5
 

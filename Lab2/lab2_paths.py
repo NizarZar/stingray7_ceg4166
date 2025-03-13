@@ -2,7 +2,7 @@ import rotationSpeed_Graph
 import time
 import pigpio
 import pid_controller
-from hcsr06sensor import HCSR04
+from hcsr04 import HCSR04
 
 samples = 5
 sensor = HCSR04(7, 12)
